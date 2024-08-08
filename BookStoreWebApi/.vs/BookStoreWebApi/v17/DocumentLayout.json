@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Knila\\Pavithra\\BookStoreWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|d:\\knila\\pavithra\\bookstorewebapi\\irepository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|solutionrelative:irepository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|d:\\knila\\pavithra\\bookstorewebapi\\diresolver\\diresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|solutionrelative:diresolver\\diresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|d:\\knila\\pavithra\\bookstorewebapi\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|solutionrelative:repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|d:\\knila\\pavithra\\bookstorewebapi\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|solutionrelative:services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|d:\\knila\\pavithra\\bookstorewebapi\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|solutionrelative:controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|d:\\knila\\pavithra\\bookstorewebapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|d:\\knila\\pavithra\\bookstorewebapi\\iservices\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|solutionrelative:iservices\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|d:\\knila\\pavithra\\bookstorewebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|d:\\knila\\pavithra\\bookstorewebapi\\models\\book_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|solutionrelative:models\\book_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|d:\\knila\\pavithra\\bookstorewebapi\\models\\mastercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|solutionrelative:models\\mastercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|d:\\knila\\pavithra\\bookstorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4372C473-F167-4376-8A5F-5779C882ACDE}|BookStoreWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "D:\\Knila\\Pavithra\\BookStoreWebApi\\Services\\BookServices.cs",
+              "RelativeDocumentMoniker": "Services\\BookServices.cs",
+              "ToolTip": "D:\\Knila\\Pavithra\\BookStoreWebApi\\Services\\BookServices.cs",
+              "RelativeToolTip": "Services\\BookServices.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:23:52.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Knila\\Pavithra\\BookStoreWebApi\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookRepository.cs",
+              "ToolTip": "D:\\Knila\\Pavithra\\BookStoreWebApi\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "Repository\\BookRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwCgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:59:29.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DIResolver.cs",
+              "DocumentMoniker": "D:\\Knila\\Pavithra\\BookStoreWebApi\\DIResolver\\DIResolver.cs",
+              "RelativeDocumentMoniker": "DIResolver\\DIResolver.cs",
+              "ToolTip": "D:\\Knila\\Pavithra\\BookStoreWebApi\\DIResolver\\DIResolver.cs",
+              "RelativeToolTip": "DIResolver\\DIResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:59:19.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Knila\\Pavithra\\BookStoreWebApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "D:\\Knila\\Pavithra\\BookStoreWebApi\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:59:27.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookStoreController.cs",
+              "DocumentMoniker": "D:\\Knila\\Pavithra\\BookStoreWebApi\\Controllers\\BookStoreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookStoreController.cs",
+              "ToolTip": "D:\\Knila\\Pavithra\\BookStoreWebApi\\Controllers\\BookStoreController.cs",
+              "RelativeToolTip": "Controllers\\BookStoreController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:47:55.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Knila\\Pavithra\\BookStoreWebApi\\IRepository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "IRepository\\IBookRepository.cs",
+              "ToolTip": "D:\\Knila\\Pavithra\\BookStoreWebApi\\IRepository\\IBookRepository.cs",
+              "RelativeToolTip": "IRepository\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:59:23.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookServices.cs",
+              "DocumentMoniker": "D:\\Knila\\Pavithra\\BookStoreWebApi\\IServices\\IBookServices.cs",
+              "RelativeDocumentMoniker": "IServices\\IBookServices.cs",
+              "ToolTip": "D:\\Knila\\Pavithra\\BookStoreWebApi\\IServices\\IBookServices.cs",
+              "RelativeToolTip": "IServices\\IBookServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:59:26.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book_Detail.cs",
+              "DocumentMoniker": "D:\\Knila\\Pavithra\\BookStoreWebApi\\Models\\Book_Detail.cs",
+              "RelativeDocumentMoniker": "Models\\Book_Detail.cs",
+              "ToolTip": "D:\\Knila\\Pavithra\\BookStoreWebApi\\Models\\Book_Detail.cs",
+              "RelativeToolTip": "Models\\Book_Detail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:04:07.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Knila\\Pavithra\\BookStoreWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Knila\\Pavithra\\BookStoreWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:33:59.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "masterContext.cs",
+              "DocumentMoniker": "D:\\Knila\\Pavithra\\BookStoreWebApi\\Models\\masterContext.cs",
+              "RelativeDocumentMoniker": "Models\\masterContext.cs",
+              "ToolTip": "D:\\Knila\\Pavithra\\BookStoreWebApi\\Models\\masterContext.cs",
+              "RelativeToolTip": "Models\\masterContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:50:24.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Knila\\Pavithra\\BookStoreWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Knila\\Pavithra\\BookStoreWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T07:50:13.909Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
