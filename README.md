@@ -192,3 +192,20 @@ BEGIN
     SELECT SUM(Price) AS TotalPrice FROM Book_Details;
 END
 ```
+## TEST DATAS
+| Publisher            | Title                 | Author_LastName | Author_FirstName | Price  |
+|----------------------|-----------------------|-----------------|------------------|--------|
+| Penguin Random House |Harry Potter Sorcerer  |Rowling	         |  J.K.            |  29.99 |
+|HarperCollins         |The Hobbit             | Tolkien         |	J.R.R.           |  25.99 |
+|Simon & Schuste       |A Game of Thrones      |Martin	          | George R.R.      |  35.50 |
+|Scholastic            |Harry Potter           |Rowling	         | J.K.             |  28.99 |
+|Penguin Books         |Pride and Prejudice    |Austen	          | Jane             |  12.99 | 
+|HarperCollins         |Brave New World        |Huxley	          | Aldous           |  18.99 |
+|Random House          |The Great Gatsby       |Fitzgerald       |	F. Scott         |  10.99 |
+|Penguin Books         |A Tale of Two Cities   |Dickens          |	Charles          |  14.99 | 
+|Vintage               |Beloved                |Morrison	        | Toni             |  16.99 |
+
+
+  
+
+
