@@ -169,4 +169,25 @@ Entity Framework (EF) is an ORM (Object-Relational Mapper) that allows developer
 2. **DbContext:** The core class in Entity Framework that manages the database connection, configures the model, and handles querying and saving data.
 3. **DbSet:** Represents a collection of entities (tables) in the database. It is used to query and save instances of the entity type.
 4. **Database:** The actual relational database where data is stored.
-
+```
+public interface IBookRepository
+CREATE PROCEDURE GetBooksSortedByPublisherAuthorTitle
+AS
+BEGIN
+    SELECT * FROM Book_Details
+    ORDER BY Publisher, Author_LastName, Author_FirstName, Title;
+END
+------------------------------------------------
+CREATE PROCEDURE GetBooksSortedByAuthorTitle
+AS
+BEGIN
+    SELECT * FROM Book_Details
+    ORDER BY Author_LastName, Author_FirstName, Title;
+END
+------------------------------------------------
+CREATE PROCEDURE GetTotalPrice
+AS
+BEGIN
+    SELECT SUM(Price) AS TotalPrice FROM Book_Details;
+END
+```
