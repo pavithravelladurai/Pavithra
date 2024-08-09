@@ -170,7 +170,6 @@ Entity Framework (EF) is an ORM (Object-Relational Mapper) that allows developer
 3. **DbSet:** Represents a collection of entities (tables) in the database. It is used to query and save instances of the entity type.
 4. **Database:** The actual relational database where data is stored.
 ```
-public interface IBookRepository
 CREATE PROCEDURE GetBooksSortedByPublisherAuthorTitle
 AS
 BEGIN
